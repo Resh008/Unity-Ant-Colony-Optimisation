@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{71c9f83f-cf6f-8015-a099-1a1bd0977e23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadArchitect", "RoadArchitect.csproj", "{685152fe-26e3-191c-d22f-e1f729ce366d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{c5c762a8-4570-bb89-770e-abf075a3aa0d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{2ab9dc63-07b3-a128-9e5c-24c5ea205645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{be6f0d02-3be1-5ead-1159-a45b77e114fd}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71c9f83f-cf6f-8015-a099-1a1bd0977e23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71c9f83f-cf6f-8015-a099-1a1bd0977e23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685152fe-26e3-191c-d22f-e1f729ce366d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685152fe-26e3-191c-d22f-e1f729ce366d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c5c762a8-4570-bb89-770e-abf075a3aa0d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c5c762a8-4570-bb89-770e-abf075a3aa0d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ab9dc63-07b3-a128-9e5c-24c5ea205645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ab9dc63-07b3-a128-9e5c-24c5ea205645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{be6f0d02-3be1-5ead-1159-a45b77e114fd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{be6f0d02-3be1-5ead-1159-a45b77e114fd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
